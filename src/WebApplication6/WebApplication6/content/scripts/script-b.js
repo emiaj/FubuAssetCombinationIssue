@@ -1,0 +1,1 @@
+﻿alert('Alert from script-b.js');
